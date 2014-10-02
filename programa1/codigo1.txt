@@ -1,0 +1,4 @@
+** git : ejemplo 1**
+
+echo ("hola mundo");
+
