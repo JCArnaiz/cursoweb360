@@ -1,4 +1,6 @@
 ** git : ejemplo 1**
 
-echo ("hola mundo");
+echo ("hola mundo")
+
+**modificado desde entorno web de git**
 
